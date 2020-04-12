@@ -4,7 +4,7 @@ import { View, Text, StyleSheet } from 'react-native'
 const SecondScreen = () => {
     return (
         <View>
-            <Text></Text>
+            <Text>Hello from the SecondScreen</Text>
         </View>
     )
 }

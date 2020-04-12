@@ -4,7 +4,7 @@ import { View, Text, StyleSheet } from 'react-native'
 const FristScreen = () => {
     return (
         <View>
-            <Text>Hello From the first screen</Text>
+            <Text>Hello From the FirstScreen</Text>
         </View>
     )
 }
